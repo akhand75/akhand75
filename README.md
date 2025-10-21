@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Akhand Pratap Singh
 
-I'm a passionate **Full-Stack Developer** and **Data Analyst** with experience in building dynamic web apps, quizzes, dashboards, and more. I love creating clean, professional, and interactive interfaces.
+I'm a passionate **Full-Stack Developer** and **Data Analyst** with experience in building dynamic web apps, dashboards, quizzes, and more. I love creating clean, professional, and interactive interfaces.
 
 ---
 
@@ -16,20 +16,23 @@ I'm a passionate **Full-Stack Developer** and **Data Analyst** with experience i
 
 ## 🔥 Projects
 
-### Quiz & Learning Platforms
-- **GATEFORUM-style Quiz System:** Timed quizzes, review palette, analytics dashboard in React.js & Bootstrap.  
-- **Full GATE Mock Test App:** Student login, dynamic quizzes, results analysis with charts.
+Here are some of my projects:
 
-### Web Apps & APIs
-- **Product Management App:** CRUD operations with React.js frontend and REST API backend.  
-- **Informational Websites:** Clean responsive layouts, optimized UI/UX.
+- [Engineers Institute](https://engineersinstitute.com/)  
+- [GATE Chemical - Online Live Coaching](https://www.gatechemical.com/online-live-coaching-program.php)  
+- [SSC JE Online Live Class](https://sscjecoaching.in/SSC-JE-Online-Live-class-program.php)  
+- [SDK ITS Global](https://sdkitsglobal.com/)  
+- [SDK ITS Development](https://sdkitsdevelopment.vercel.app/)  
+- [Brillano Admin Panel](https://brillanoadminpanel.vercel.app/)  
+- [Aastha Decorators](https://aasthadecorators.in/)  
+- [Check GATE Rank](https://checkgaterank.com/login.php)  
 
 ---
 
 ## 📫 How to reach me
 
 - Email: akhand.pratap.singh@itssolutions.in  
-- LinkedIn: [Akhand Pratap Singh](https://www.linkedin.com/in/akhandpratap/)  
+- LinkedIn: [Akhand Pratap Singh](https://www.linkedin.com/in/akhand-pratap-singh-05a9601a4/)  
 
 ---
 
