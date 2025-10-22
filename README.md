@@ -7,7 +7,7 @@ I'm a passionate **Full-Stack Developer** and **Data Analyst** with experience i
 ## 💻 Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind
-- **Backend:** Node.js, Express.js, PHP, MySQL
+- **Backend:** Node.js, Express.js, PHP, Java, MySQL
 - **Data & Analytics:** Advanced Excel, SQL, Power BI, Python (NumPy, Pandas)
 - **Other Tools:** Git, GitHub, PHPMailer, Easebuzz Payment Integration
 - **Design:** Intermediate Graphic Design
