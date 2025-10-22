@@ -31,7 +31,7 @@ Here are some of my projects:
 
 ## 📫 How to reach me
 
-- Email: akhand.pratap.singh@itssolutions.in  
+- Email: sakhand97@gmail.com  
 - LinkedIn: [Akhand Pratap Singh](https://www.linkedin.com/in/akhand-pratap-singh-05a9601a4/)  
 
 ---
