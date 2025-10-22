@@ -18,6 +18,7 @@ I'm a passionate **Full-Stack Developer** and **Data Analyst** with experience i
 
 Here are some of my projects:
 - [Quiz App](https://quiz-forum-phi.vercel.app/login)
+- [Email Template Generator](https://email-template-two-phi.vercel.app/)
 - [JSON Extractor](https://json-extractor.vercel.app/)
 - [Engineers Institute](https://engineersinstitute.com/)  
 - [GATE Chemical - Online Live Coaching](https://www.gatechemical.com/online-live-coaching-program.php)  
